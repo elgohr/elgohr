@@ -10,7 +10,7 @@ Projects are not related to my employer.
 - 🔭 I’m currently working on trying not to break things 🤣
 - 🌱 I’m learning every day
 - 👯 I’m looking for inspiring things
-- 📫 How to reach me: Use [Twitter](https://twitter.com/lagohr) or say 👋 via [Email](mailto:lars@gohr.digital)
+- 📫 How to reach me: Say 👋 via [Email](mailto:lars@gohr.digital)
 - ⚡ Fun fact: I made the worlds first Android hand warmer, using C.
 
 #### Projects/Companies that use my OSS
