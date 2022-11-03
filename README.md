@@ -14,10 +14,10 @@ Projects are not related to my employer.
 - ⚡ Fun fact: I made the worlds first Android hand warmer, using C.
 
 #### Projects/Companies that use my OSS
-<div>
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Perl_language_logo.svg/120px-Perl_language_logo.svg.png" alt="perl" width="100"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cisco_logo.svg/320px-Cisco_logo.svg.png" alt="cisco" width="100"/>
-<img src="https://snyk.io/wp-content/uploads/title-card-logo-black.png" alt="snyk" width="100"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/CentOS_color_logo.svg/1200px-CentOS_color_logo.svg.png" alt="centos" width="100"/>
-</div>
+- Bytedance
+- CentOS
+- Cisco
+- Perl
+- Snyk
+
 At least what I know of.
