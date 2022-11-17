@@ -10,14 +10,13 @@ Projects are not related to my employer.
 - 🔭 I’m currently working on trying not to break things 🤣
 - 🌱 I’m learning every day
 - 👯 I’m looking for inspiring things
-- 📫 How to reach me: Say 👋 via [Email](mailto:lars@gohr.digital)
 - ⚡ Fun fact: I made the worlds first Android hand warmer, using C.
 
-#### Projects/Companies that use my OSS
-- Bytedance
-- CentOS
-- Cisco
-- Perl
-- Snyk
+Contact me:  
+[📫 E-Mail](mailto:lars@gohr.digital)   
+🐘 @elgohr@chaos.social
 
-At least what I know of.
+
+<hr/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elgohr)](https://github.com/anuraghazra/github-readme-stats)
