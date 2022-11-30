@@ -14,7 +14,7 @@ Projects are not related to my employer.
 
 Contact me:  
 [📫 E-Mail](mailto:lars@gohr.digital) ([PGP-Key](email.pgp))   
-🐘 [@elgohr@chaos.social](https://chaos.social)
+🐘 [@elgohr@chaos.social](https://chaos.social/@elgohr)
 
 
 <hr/>
