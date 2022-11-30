@@ -13,8 +13,8 @@ Projects are not related to my employer.
 - ⚡ Fun fact: I made the worlds first Android hand warmer, using C.
 
 Contact me:  
-[📫 E-Mail](mailto:lars@gohr.digital)   
-🐘 @elgohr@chaos.social
+[📫 E-Mail](mailto:lars@gohr.digital) ([PGP-Key](email.pgp))   
+🐘 [@elgohr@chaos.social](https://chaos.social)
 
 
 <hr/>
