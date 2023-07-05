@@ -16,7 +16,7 @@ Contact me:
 [📫 E-Mail](mailto:lars@gohr.digital) ([PGP](email.pgp))   
 🐘 [@elgohr@chaos.social](https://chaos.social/@elgohr)
 
-
 <hr/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elgohr)](https://github.com/anuraghazra/github-readme-stats)
+My code is used in
+![Map with global usage](https://raw.githubusercontent.com/elgohr/github-globe/main/global_usage.svg)
