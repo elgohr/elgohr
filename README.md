@@ -18,5 +18,6 @@ Contact me:
 
 <hr/>
 
-My code is used in
+#### My code is used in
+
 ![Map with global usage](https://raw.githubusercontent.com/elgohr/github-globe/main/global_usage.svg)
