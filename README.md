@@ -7,9 +7,9 @@
 This is the place where I tinker and opensource things.  
 Projects are not related to my employer.
 
-- 🔭 I’m currently working on trying not to break things 🤣
-- 🌱 I’m learning every day
-- 👯 I’m looking for inspiring things
+- 🔭 Always curious to learn
+- 🌱 Happy to share knowledge
+- 🪄 Looking for inspiring things
 - ⚡ Fun fact: I made the worlds first Android hand warmer, using C.
 
 Contact me:  
