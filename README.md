@@ -15,6 +15,8 @@ Projects are not related to my employer.
 Contact me:  
 [📫 E-Mail](mailto:lars@gohr.digital) ([PGP](email.pgp))   
 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" width="20px"> LinkedIn](https://www.linkedin.com/in/lars-gohr-86831126a/)
+
 <hr/>
 
 #### My code is used in
