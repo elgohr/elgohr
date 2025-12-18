@@ -29,4 +29,4 @@ Contact me:
 
 #### My code is used in
 
-![Map with global usage](https://raw.githubusercontent.com/elgohr/github-globe/main/global_usage.svg)
+[![Map with global usage](https://raw.githubusercontent.com/elgohr/github-globe/main/global_usage.svg)](https://github.com/elgohr/github-globe/blob/main/global_usage.json)
