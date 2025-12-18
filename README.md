@@ -12,6 +12,13 @@ Projects are not related to my employer.
 - 🪄 Looking for inspiring things
 - ⚡ Fun fact: I made the worlds first Android hand warmer, using C.
 
+#### Mentions
+- [Programmers at Volkswagen - Generalists for tailor-made digital applications](https://www.vwpress.co.uk/releases/3392)
+- [University of British Columbia lecture material](https://github.com/UBC-DSCI/reproducible-and-trustworthy-workflows-for-data-science/blob/de41cb19c7b8acf5854d6b8eeb174a8f992ebf13/book/lectures/201-github_actions.qmd#L143)
+  
+#### Publications
+- [Java Magazine - Mit Klartext zu effizienten Tests](https://entwickler.de/magazine-ebooks/java-magazin/java-magazin-32019)
+
 Contact me:  
 [📫 E-Mail](mailto:lars@gohr.digital) ([PGP](email.pgp))   
 
